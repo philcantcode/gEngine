@@ -1,1 +1,3 @@
-module github.com/philcantcode/gEngine
+module src
+
+go 1.16
